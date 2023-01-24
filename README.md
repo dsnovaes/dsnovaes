@@ -1,6 +1,8 @@
 ### Hey there 👋🏻
 
-📄 View my [resumé](https://read.cv/diego)
+📄 [Resumé](https://read.cv/diego)
+👼🏻 [AngelList/Wellfound profile](https://angel.co/u/diego-novaes)
+🔗 [LinkedIn](https://www.linkedin.com/in/diegonovaes)
 
 <!--
 **dsnovaes/dsnovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
