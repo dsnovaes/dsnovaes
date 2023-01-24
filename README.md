@@ -1,7 +1,9 @@
 ### Hey there 👋🏻
 
 📄 [Resumé](https://read.cv/diego)
+
 👼🏻 [AngelList/Wellfound profile](https://angel.co/u/diego-novaes)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/diegonovaes)
 
 <!--
