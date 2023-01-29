@@ -1,22 +1,11 @@
-### Hey there 👋🏻
+### Hey there, I'm Diego 👋🏻
 
+- I'm from Brazil
+- I'm a software engineer
+
+These are my links:
 📄 [Resume](https://read.cv/diego)
-
 👼🏻 [AngelList/Wellfound profile](https://angel.co/u/diego-novaes)
-
 🔗 [LinkedIn](https://www.linkedin.com/in/diegonovaes)
-
-<!--
-**dsnovaes/dsnovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 [Personal Website [en]](https://diegonovaes.com)
+🌎 [Personal Website [pt-BR]](https://diegonovaes.com.br)
