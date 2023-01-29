@@ -4,6 +4,7 @@
 - I'm a software engineer
 
 These are my links:
+
 📄 [Resume](https://read.cv/diego)
 
 👼🏻 [AngelList/Wellfound profile](https://angel.co/u/diego-novaes)
